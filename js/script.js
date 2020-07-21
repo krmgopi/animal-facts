@@ -12,7 +12,7 @@ var facts = [];
 function getFacts(){
     facts = [{id: 1, name: "Lion", description: "King of the Jungle", image:"images/lion.jpg"},
              {id: 2, name: "Tiger", description: " Largest member of the cat family", image:"images/tiger.jpg"},
-             {id: 3, name: "Crocodile", description: "King of River", image:"../images/croc.jpg"},
+             {id: 3, name: "Crocodile", description: "King of River", image:"images/croc.jpg"},
              {id: 4, name: "Bear", description: "Black bears can run at the speed up to 35mph", image:"images/bear.jpg"},
              {id: 5, name: "Wolf", description: "Wolves are the largest members of the dog family", image:"images/wolf.jpg"}];
     
