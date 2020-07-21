@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+
+#content{
+    margin-top: 50px;
+}
+
+.collection .extra{
+    padding: 20px;
+}
